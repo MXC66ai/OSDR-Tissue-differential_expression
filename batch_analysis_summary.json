@@ -1,0 +1,244 @@
+[
+  {
+    "id": "OSD-100",
+    "status": "success",
+    "samples": 12,
+    "genes": 26712,
+    "degs": 14,
+    "up": 7,
+    "down": 7,
+    "conditions": [
+      "Ground.Control",
+      "Space.Flight"
+    ],
+    "pc1_var": 50.853923342975826,
+    "output_dir": "C:\\Users\\Administrator\\.openclaw\\workspace\\maxc\\JupyterProject\\results\\OSD-100"
+  },
+  {
+    "id": "OSD-101",
+    "status": "success",
+    "samples": 12,
+    "genes": 22832,
+    "degs": 34,
+    "up": 20,
+    "down": 14,
+    "conditions": [
+      "Ground.Control",
+      "Space.Flight"
+    ],
+    "pc1_var": 29.509588979788663,
+    "output_dir": "C:\\Users\\Administrator\\.openclaw\\workspace\\maxc\\JupyterProject\\results\\OSD-101"
+  },
+  {
+    "id": "OSD-102",
+    "status": "success",
+    "samples": 12,
+    "genes": 24278,
+    "degs": 22,
+    "up": 6,
+    "down": 16,
+    "conditions": [
+      "Space.Flight",
+      "Ground.Control"
+    ],
+    "pc1_var": 27.287927694820365,
+    "output_dir": "C:\\Users\\Administrator\\.openclaw\\workspace\\maxc\\JupyterProject\\results\\OSD-102"
+  },
+  {
+    "id": "OSD-103",
+    "status": "success",
+    "samples": 12,
+    "genes": 22495,
+    "degs": 69,
+    "up": 13,
+    "down": 56,
+    "conditions": [
+      "Space.Flight",
+      "Ground.Control"
+    ],
+    "pc1_var": 31.6699399718969,
+    "output_dir": "C:\\Users\\Administrator\\.openclaw\\workspace\\maxc\\JupyterProject\\results\\OSD-103"
+  },
+  {
+    "id": "OSD-105",
+    "status": "success",
+    "samples": 12,
+    "genes": 22335,
+    "degs": 108,
+    "up": 20,
+    "down": 88,
+    "conditions": [
+      "Ground.Control",
+      "Space.Flight"
+    ],
+    "pc1_var": 28.04498328268423,
+    "output_dir": "C:\\Users\\Administrator\\.openclaw\\workspace\\maxc\\JupyterProject\\results\\OSD-105"
+  },
+  {
+    "id": "OSD-162",
+    "status": "failed",
+    "error": "\"['Mmus_BAL-TAL_EYE_BSL_Rep1_B2', 'Mmus_BAL-TAL_EYE_BSL_Rep2_B3', 'Mmus_BAL-TAL_EYE_BSL_Rep3_B4', 'Mmus_BAL-TAL_EYE_BSL_Rep4_B5', 'Mmus_BAL-TAL_EYE_BSL_Rep5_B7'] not in index\""
+  },
+  {
+    "id": "OSD-168",
+    "status": "failed",
+    "error": "\"None of [Index(['RR1_BSL_B4', 'RR1_BSL_B5', 'RR1_BSL_B7', 'RR1_BSL_B8', 'RR1_BSL_B10',\\n       'RR1_BSL_B4', 'RR1_BSL_B5', 'RR1_BSL_B7', 'RR1_BSL_B8', 'RR1_BSL_B10',\\n       'RR1_VIV_V16', 'RR1_VIV_V17', 'RR1_VIV_V18', 'RR1_VIV_V19',\\n       'RR1_VIV_V20', 'RR1_VIV_V16', 'RR1_VIV_V17', 'RR1_VIV_V18',\\n       'RR1_VIV_V19', 'RR1_VIV_V20', 'RR1_GC_M36', 'RR1_GC_M37', 'RR1_GC_M38',\\n       'RR1_GC_M39', 'RR1_GC_M40', 'RR1_GC_M36', 'RR1_GC_M37', 'RR1_GC_M38',\\n       'RR1_GC_M39', 'RR1_GC_M40', 'RR1_FLT_M25', 'RR1_FLT_M26', 'RR1_FLT_M28',\\n       'RR1_FLT_M29', 'RR1_FLT_M30', 'RR1_FLT_M25', 'RR1_FLT_M26',\\n       'RR1_FLT_M28', 'RR1_FLT_M29', 'RR1_FLT_M30', 'RR3_BSL_B2', 'RR3_BSL_B4',\\n       'RR3_BSL_B6', 'RR3_BSL_B7', 'RR3_GC_G1', 'RR3_GC_G2', 'RR3_GC_G3',\\n       'RR3_GC_G5', 'RR3_FLT_F1', 'RR3_FLT_F2', 'RR3_FLT_F3', 'RR3_FLT_F4'],\\n      dtype='object')] are in the [columns]\""
+  },
+  {
+    "id": "OSD-194-RNA",
+    "status": "failed",
+    "error": "\"['Mmus_BAL-TAL_LRTN_BSL_Rep1_B7', 'Mmus_BAL-TAL_RRTN_BSL_Rep2_B8', 'Mmus_BAL-TAL_RRTN_BSL_Rep3_B9', 'Mmus_BAL-TAL_RRTN_BSL_Rep4_B10', 'Mmus_BAL-TAL_RRTN_GC_Rep4_G10'] not in index\""
+  },
+  {
+    "id": "OSD-248",
+    "status": "success",
+    "samples": 58,
+    "genes": 32187,
+    "degs": 0,
+    "up": 0,
+    "down": 0,
+    "conditions": [
+      "Basal.Control...1...On.Earth...Upon.euthanasia",
+      "Ground.Control....30...On.Earth...Upon.euthanasia",
+      "Space.Flight....30...On.Earth...Upon.euthanasia",
+      "Basal.Control...1...On.Earth...Carcass",
+      "Ground.Control....60...On.Earth...Carcass",
+      "Space.Flight....60...On.ISS...Carcass"
+    ],
+    "pc1_var": 42.188662201008796,
+    "output_dir": "C:\\Users\\Administrator\\.openclaw\\workspace\\maxc\\JupyterProject\\results\\OSD-248"
+  },
+  {
+    "id": "OSD-270",
+    "status": "success",
+    "samples": 5,
+    "genes": 20152,
+    "degs": 51,
+    "up": 21,
+    "down": 30,
+    "conditions": [
+      "Space.Flight...space.radiation",
+      "Ground.Control...non.irradiated"
+    ],
+    "pc1_var": 39.53596983007888,
+    "output_dir": "C:\\Users\\Administrator\\.openclaw\\workspace\\maxc\\JupyterProject\\results\\OSD-270"
+  },
+  {
+    "id": "OSD-288",
+    "status": "success",
+    "samples": 9,
+    "genes": 20947,
+    "degs": 30,
+    "up": 23,
+    "down": 7,
+    "conditions": [
+      "Space.Flight...1G.by.centrifugation",
+      "Ground.Control...1G",
+      "Space.Flight...uG"
+    ],
+    "pc1_var": 41.30749202016954,
+    "output_dir": "C:\\Users\\Administrator\\.openclaw\\workspace\\maxc\\JupyterProject\\results\\OSD-288"
+  },
+  {
+    "id": "OSD-397",
+    "status": "failed",
+    "error": "\"['M21', 'M22', 'M29', 'M30', 'M31', 'M32'] not in index\""
+  },
+  {
+    "id": "OSD-420",
+    "status": "success",
+    "samples": 20,
+    "genes": 22209,
+    "degs": 19,
+    "up": 10,
+    "down": 9,
+    "conditions": [
+      "Space.Flight",
+      "Ground.Control"
+    ],
+    "pc1_var": 22.920322980097346,
+    "output_dir": "C:\\Users\\Administrator\\.openclaw\\workspace\\maxc\\JupyterProject\\results\\OSD-420"
+  },
+  {
+    "id": "OSD-457",
+    "status": "success",
+    "samples": 192,
+    "genes": 34792,
+    "degs": 12924,
+    "up": 5129,
+    "down": 7795,
+    "conditions": [
+      "Nrf2KO...Space.Flight...Temporal.Bone",
+      "Nrf2KO...Ground.control...Temporal.Bone",
+      "Wild.Type...Space.Flight...Temporal.Bone",
+      "Wild.Type...Ground.control...Temporal.Bone",
+      "Wild.Type...Space.Flight...Mandibular.bone",
+      "Nrf2KO...Space.Flight...Mandibular.bone",
+      "Wild.Type...Ground.control...Mandibular.bone",
+      "Nrf2KO...Ground.control...Mandibular.bone",
+      "Nrf2KO...Space.Flight...spleen",
+      "Wild.Type...Space.Flight...spleen",
+      "Nrf2KO...Ground.control...spleen",
+      "Wild.Type...Ground.control...spleen",
+      "Nrf2KO...Space.Flight...Liver",
+      "Wild.Type...Space.Flight...Liver",
+      "Nrf2KO...Ground.control...Liver",
+      "Wild.Type...Ground.control...Liver",
+      "Nrf2KO...Ground.control...white.adipose.tissue",
+      "Wild.Type...Ground.control...white.adipose.tissue",
+      "Nrf2KO...Space.Flight...white.adipose.tissue",
+      "Wild.Type...Space.Flight...white.adipose.tissue",
+      "Nrf2KO...Ground.control...brown.adipose.tissue",
+      "Wild.Type...Ground.control...brown.adipose.tissue",
+      "Nrf2KO...Space.Flight...brown.adipose.tissue",
+      "Wild.Type...Space.Flight...brown.adipose.tissue",
+      "Nrf2KO...Space.Flight...thymus",
+      "Wild.Type...Space.Flight...thymus",
+      "Nrf2KO...Ground.control...thymus",
+      "Wild.Type...Ground.control...thymus",
+      "Nrf2KO...Ground.control...Kidney",
+      "Wild.Type...Ground.control...Kidney",
+      "Nrf2KO...Space.Flight...Kidney",
+      "Wild.Type...Space.Flight...Kidney",
+      "Nrf2KO...Ground.control...Cerebrum",
+      "Wild.Type...Ground.control...Cerebrum",
+      "Nrf2KO...Space.Flight...Cerebrum",
+      "Wild.Type...Space.Flight...Cerebrum"
+    ],
+    "pc1_var": 35.78763926330349,
+    "output_dir": "C:\\Users\\Administrator\\.openclaw\\workspace\\maxc\\JupyterProject\\results\\OSD-457"
+  },
+  {
+    "id": "OSD-48",
+    "status": "success",
+    "samples": 14,
+    "genes": 22488,
+    "degs": 0,
+    "up": 0,
+    "down": 0,
+    "conditions": [
+      "Ground.Control...Upon.euthanasia",
+      "Space.Flight...Upon.euthanasia",
+      "Ground.Control...Carcass",
+      "Space.Flight...Carcass"
+    ],
+    "pc1_var": 58.08583829162471,
+    "output_dir": "C:\\Users\\Administrator\\.openclaw\\workspace\\maxc\\JupyterProject\\results\\OSD-48"
+  },
+  {
+    "id": "OSD-513",
+    "status": "success",
+    "samples": 27,
+    "genes": 25172,
+    "degs": 808,
+    "up": 265,
+    "down": 543,
+    "conditions": [
+      "Space.Flight",
+      "Ground.Control",
+      "Vivarium.Control"
+    ],
+    "pc1_var": 44.17959052261805,
+    "output_dir": "C:\\Users\\Administrator\\.openclaw\\workspace\\maxc\\JupyterProject\\results\\OSD-513"
+  }
+]

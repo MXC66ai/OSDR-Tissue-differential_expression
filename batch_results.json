@@ -1,0 +1,235 @@
+[
+  {
+    "id": "OSD-100",
+    "status": "success",
+    "samples": 12,
+    "genes": 26712,
+    "degs": 14,
+    "up": 7,
+    "down": 7,
+    "pc1": 54.419512257348515,
+    "conditions": [
+      "Ground.Control",
+      "Space.Flight"
+    ]
+  },
+  {
+    "id": "OSD-101",
+    "status": "success",
+    "samples": 12,
+    "genes": 22832,
+    "degs": 34,
+    "up": 20,
+    "down": 14,
+    "pc1": 28.755504453113286,
+    "conditions": [
+      "Ground.Control",
+      "Space.Flight"
+    ]
+  },
+  {
+    "id": "OSD-102",
+    "status": "success",
+    "samples": 12,
+    "genes": 24278,
+    "degs": 22,
+    "up": 6,
+    "down": 16,
+    "pc1": 27.387906879576406,
+    "conditions": [
+      "Space.Flight",
+      "Ground.Control"
+    ]
+  },
+  {
+    "id": "OSD-103",
+    "status": "success",
+    "samples": 12,
+    "genes": 22495,
+    "degs": 69,
+    "up": 13,
+    "down": 56,
+    "pc1": 33.85458519998845,
+    "conditions": [
+      "Space.Flight",
+      "Ground.Control"
+    ]
+  },
+  {
+    "id": "OSD-105",
+    "status": "success",
+    "samples": 12,
+    "genes": 22335,
+    "degs": 108,
+    "up": 20,
+    "down": 88,
+    "pc1": 29.566411581008158,
+    "conditions": [
+      "Ground.Control",
+      "Space.Flight"
+    ]
+  },
+  {
+    "id": "OSD-162",
+    "status": "success",
+    "samples": 10,
+    "genes": 27915,
+    "degs": 13,
+    "up": 8,
+    "down": 5,
+    "pc1": 39.579981946288314,
+    "conditions": [
+      "Space.Flight",
+      "Ground.Control"
+    ]
+  },
+  {
+    "id": "OSD-168",
+    "status": "failed",
+    "error": "Sample names mismatch"
+  },
+  {
+    "id": "OSD-194-RNA",
+    "status": "success",
+    "samples": 8,
+    "genes": 25367,
+    "degs": 271,
+    "up": 51,
+    "down": 220,
+    "pc1": 34.026515742280175,
+    "conditions": [
+      "Ground.Control",
+      "Space.Flight"
+    ]
+  },
+  {
+    "id": "OSD-248",
+    "status": "failed",
+    "error": "Need 2 groups, got 6"
+  },
+  {
+    "id": "OSD-270",
+    "status": "success",
+    "samples": 5,
+    "genes": 20152,
+    "degs": 51,
+    "up": 21,
+    "down": 30,
+    "pc1": 38.01966698206097,
+    "conditions": [
+      "Space.Flight...space.radiation",
+      "Ground.Control...non.irradiated"
+    ]
+  },
+  {
+    "id": "OSD-288",
+    "status": "success",
+    "samples": 9,
+    "genes": 20947,
+    "degs": 30,
+    "up": 23,
+    "down": 7,
+    "pc1": 40.527428710577055,
+    "conditions": [
+      "Space.Flight...1G.by.centrifugation",
+      "Ground.Control...1G",
+      "Space.Flight...uG"
+    ]
+  },
+  {
+    "id": "OSD-397",
+    "status": "success",
+    "samples": 10,
+    "genes": 24119,
+    "degs": 20,
+    "up": 5,
+    "down": 15,
+    "pc1": 34.60375884559378,
+    "conditions": [
+      "Space.Flight",
+      "Ground.Control"
+    ]
+  },
+  {
+    "id": "OSD-420",
+    "status": "success",
+    "samples": 20,
+    "genes": 22209,
+    "degs": 19,
+    "up": 10,
+    "down": 9,
+    "pc1": 25.68147219989274,
+    "conditions": [
+      "Space.Flight",
+      "Ground.Control"
+    ]
+  },
+  {
+    "id": "OSD-457",
+    "status": "success",
+    "samples": 192,
+    "genes": 34792,
+    "degs": 12924,
+    "up": 5129,
+    "down": 7795,
+    "pc1": 39.533846786933594,
+    "conditions": [
+      "Nrf2KO...Space.Flight...Temporal.Bone",
+      "Nrf2KO...Ground.control...Temporal.Bone",
+      "Wild.Type...Space.Flight...Temporal.Bone",
+      "Wild.Type...Ground.control...Temporal.Bone",
+      "Wild.Type...Space.Flight...Mandibular.bone",
+      "Nrf2KO...Space.Flight...Mandibular.bone",
+      "Wild.Type...Ground.control...Mandibular.bone",
+      "Nrf2KO...Ground.control...Mandibular.bone",
+      "Nrf2KO...Space.Flight...spleen",
+      "Wild.Type...Space.Flight...spleen",
+      "Nrf2KO...Ground.control...spleen",
+      "Wild.Type...Ground.control...spleen",
+      "Nrf2KO...Space.Flight...Liver",
+      "Wild.Type...Space.Flight...Liver",
+      "Nrf2KO...Ground.control...Liver",
+      "Wild.Type...Ground.control...Liver",
+      "Nrf2KO...Ground.control...white.adipose.tissue",
+      "Wild.Type...Ground.control...white.adipose.tissue",
+      "Nrf2KO...Space.Flight...white.adipose.tissue",
+      "Wild.Type...Space.Flight...white.adipose.tissue",
+      "Nrf2KO...Ground.control...brown.adipose.tissue",
+      "Wild.Type...Ground.control...brown.adipose.tissue",
+      "Nrf2KO...Space.Flight...brown.adipose.tissue",
+      "Wild.Type...Space.Flight...brown.adipose.tissue",
+      "Nrf2KO...Space.Flight...thymus",
+      "Wild.Type...Space.Flight...thymus",
+      "Nrf2KO...Ground.control...thymus",
+      "Wild.Type...Ground.control...thymus",
+      "Nrf2KO...Ground.control...Kidney",
+      "Wild.Type...Ground.control...Kidney",
+      "Nrf2KO...Space.Flight...Kidney",
+      "Wild.Type...Space.Flight...Kidney",
+      "Nrf2KO...Ground.control...Cerebrum",
+      "Wild.Type...Ground.control...Cerebrum",
+      "Nrf2KO...Space.Flight...Cerebrum",
+      "Wild.Type...Space.Flight...Cerebrum"
+    ]
+  },
+  {
+    "id": "OSD-48",
+    "status": "failed",
+    "error": "Need 2 groups, got 4"
+  },
+  {
+    "id": "OSD-513",
+    "status": "success",
+    "samples": 27,
+    "genes": 25172,
+    "degs": 808,
+    "up": 265,
+    "down": 543,
+    "pc1": 36.476996581464405,
+    "conditions": [
+      "Space.Flight",
+      "Ground.Control",
+      "Vivarium.Control"
+    ]
+  }
+]
